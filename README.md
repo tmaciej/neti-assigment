@@ -26,7 +26,7 @@ The application was built based on following instructions:
 > - Score is displayed of all rounds of user - computer match
 > - If user does not decide to play another round - he should be displayed the result screen
 
-In response a simple two screen application.
+In response a simple two screen application was created.
 
 Application was quickly bootstraped using Next.js for routing and rendering. Libraries "shadcn/ui" and "Tailwind" were used to quickly prototype an usable UI.
 
